@@ -32,9 +32,9 @@ We need to find the Points where the Hand is Recognized. This will help us to de
 
 ## 2.	The Game Implementation:
 
-### a.	Load 2 images, one which is the Cover, i.e., the Image displayed when the Game starts. The other is the Image that will be shown when the Player swipes that part of the Above-lying Image.
-### b.	The concept is that when the Player swipes his Hand over a region of the Image, that part is rewritten with part of another Image. This makes it look like the Image has appeared from under the Image previously displayed.
-### c.	When the entire part of the Image is replaced by another Image, the Game can be stopped.
-### d.	The Percentage can be found out by checking the number of pixels occupied by the Next Image to the Total Number of Pixels in the Output Screen Image.
+a.	Load 2 images, one which is the Cover, i.e., the Image displayed when the Game starts. The other is the Image that will be shown when the Player swipes that part of the Above-lying Image.
+b.	The concept is that when the Player swipes his Hand over a region of the Image, that part is rewritten with part of another Image. This makes it look like the Image has appeared from under the Image previously displayed.
+c.	When the entire part of the Image is replaced by another Image, the Game can be stopped.
+d.	The Percentage can be found out by checking the number of pixels occupied by the Next Image to the Total Number of Pixels in the Output Screen Image.
 I’m attaching some Images showing the Program at work.
 
