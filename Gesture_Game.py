@@ -2,8 +2,8 @@ import cv2
 import numpy as np
 
 #Load the Images for the Game
-fog = cv2.imread('G:\Gesture Game\Images\Foggy.jpg')
-clear = cv2.imread('G:/Gesture Game/Images/fog-wallpaper-2.jpg')
+fog = cv2.imread('Foggy.jpg')
+clear = cv2.imread('fog-wallpaper-2.jpg')
 
 #blank_image = np.zeros((768,,3), np.uint8)
 #change_image = Fog
